@@ -1,0 +1,21 @@
+{ 
+	"version": 1.0,
+	"insults": [
+		{
+			"insultText": "¡Llevarás mi espada como si fueras un pincho moruno!",
+			"correctAnswer": 0
+		},
+		{
+			"insultText": "Mi lengua es más hábil que cualquier espada.",
+			"correctAnswer": 0
+		},
+		{
+			"insultText": "¡Luchas como un ganadero!",
+			"correctAnswer": 1
+		},
+		{
+			"insultText": "¡No hay palabras para describir lo asqueroso que eres!",
+			"correctAnswer": 2
+		}
+	]
+}
